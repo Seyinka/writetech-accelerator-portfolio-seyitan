@@ -31,7 +31,7 @@ I'm a technical writer with a background in software development and a passion f
 
 ## 🔗 Additional Links
 
-- [LinkedIn](https://linkedin.com/in/yourname)
-- [Personal Blog or Website (if applicable)](https://yourdomain.com)
+- [LinkedIn](https://www.linkedin.com/in/seyitan-oluwaseitan-83ab93251)
+- [WriteTech Portfolio Website](https://writetech-accelerator-portfolio-sey-three.vercel.app/m)
 
 Thanks for checking out my work!
