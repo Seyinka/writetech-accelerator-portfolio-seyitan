@@ -64,6 +64,23 @@ const sidebars = {
       label: 'Introduction',
       id: 'api-documentation/intro',
     },
+    {
+      type: 'category',
+      label: 'Getting Started',
+      link: {
+        type: 'doc',
+        id: 'api-documentation/getting-started',
+      },
+      items:[],
+    },
+    {
+      type: 'category',
+      label: 'API Reference',
+      items: [
+        'api-documentation/reference/get-user',
+        'api-documentation/reference/post-item',
+      ],
+    },
   ],
 };
 
