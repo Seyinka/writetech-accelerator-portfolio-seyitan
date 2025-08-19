@@ -46,6 +46,10 @@ const sidebars = {
         {
           type: 'category',
           label: 'API Reference',
+          link: {
+            type: 'doc',
+            id: 'documentation-tooling/mautic-overview'
+          },
           items: [
             'documentation-tooling/reference/get-user'
           ]
