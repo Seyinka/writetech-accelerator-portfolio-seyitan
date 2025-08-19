@@ -58,7 +58,7 @@ const sidebars = {
     {
       type: 'doc',
       label: 'Introduction',
-      id: 'api-documentation',
+      id: 'api-documentation/intro',
     },
   ],
 };
